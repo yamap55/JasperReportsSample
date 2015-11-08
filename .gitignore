@@ -49,3 +49,5 @@ overridedb.*
 .metadata
 .recommenders
 .RemoteSystemsTempFiles
+*.jasper
+*.pdf
